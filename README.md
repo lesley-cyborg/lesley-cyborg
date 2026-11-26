@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lesley-cyborg">
-    <img src="https://img.shields.io/badge/GitHub-lesley--cyborg-181717?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://instagram.com/ninja.curated">
+    <img src="https://img.shields.io/badge/Instagram-ninja.curated-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
   <a href="https://linkedin.com/in/kagiso-setilo-b6b340255">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -104,7 +104,7 @@ I enjoy working on complex engineering problems, exploring system architecture, 
 ### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,terraform,linux" />
 </p>
 
 ### DevOps & Development Tools
@@ -220,20 +220,11 @@ A documentation-style portfolio showcasing software engineering projects, archit
 
 # 📈 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesley-cyborg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-cyborg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<p> <img height="170" src="https://github-readme-stats.vercel.app/api?username=lesley-cyborg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-cyborg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p> 
+<img src="https://streak-stats.demolab.com?user=lesley-cyborg&theme=tokyonight&hide_border=true" width="70%" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lesley-cyborg&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lesley-cyborg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
-</p>
 
 ### 📅 Contribution Activity
 
@@ -245,7 +236,7 @@ A documentation-style portfolio showcasing software engineering projects, archit
 
 # 🏅 Achievements & Open Source
 
-I believe in consistent learning, meaningful contributions and collaborative engineering.
+I believe in consistent learning were possible, meaningful contributions, HARDWORK and collaborative engineering.
 
 - 🚀 Building and maintaining practical engineering projects.
 - 🔀 Contributing through pull requests and code reviews.
@@ -272,6 +263,9 @@ I'm always interested in connecting with developers, engineers, security profess
   <a href="https://linkedin.com/in/kagiso-setilo-b6b340255">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <a href="https://instagram.com/ninja.curated">
+    <img src="https://img.shields.io/badge/Instagram-ninja.curated-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
 </p>
 
 <p align="center">
